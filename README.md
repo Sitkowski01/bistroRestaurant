@@ -1,11 +1,12 @@
+# bistroRestaurant
 
-  # Unique Landing Page Design
+Landing strony oparta na projekcie Figma: [Unique Landing Page Design](https://www.figma.com/design/g3tjtzvWPRELiORob0Lqlk/Unique-Landing-Page-Design).
 
-  This is a code bundle for Unique Landing Page Design. The original project is available at https://www.figma.com/design/g3tjtzvWPRELiORob0Lqlk/Unique-Landing-Page-Design.
+## Uruchomienie
 
-  ## Running the code
+```bash
+npm i
+npm run dev
+```
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Build produkcyjny: `npm run build` (Vite → folder `dist`).
