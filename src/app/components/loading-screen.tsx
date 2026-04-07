@@ -63,7 +63,7 @@ export function LoadingScreen({ onComplete }: { onComplete: () => void }) {
                 lineHeight: 1,
               }}
             >
-              HULTAJ
+              BISTRO
             </motion.span>
           </div>
 
