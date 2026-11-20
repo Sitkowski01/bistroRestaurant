@@ -113,6 +113,9 @@ export function Footer() {
               Zaprojektowane z głodem i miłością
             </p>
           </div>
+          <p className="mt-4 text-[0.7rem] text-hultaj-cream/45 text-center break-words">
+            Projekt i wykonanie: Mikołaj Sitek, <a href="https://swndevelopment.pl" target="_blank" rel="noopener" className="underline hover:text-hultaj-citrus transition-colors">SWN Development</a> · <a href="mailto:mikolaj@swndevelopment.pl" className="underline hover:text-hultaj-citrus transition-colors">mikolaj@swndevelopment.pl</a>
+          </p>
         </div>
       </div>
     </footer>

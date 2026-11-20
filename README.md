@@ -33,3 +33,7 @@ Szkielet projektu powstał w Figma Make, a komponenty bazowe pochodzą z
 [shadcn/ui](https://ui.shadcn.com/) na licencji MIT. Sekcje strony, układ, animacje
 wejścia i warstwa wizualna są napisane samodzielnie. Pełna lista w
 [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
+
+---
+
+Projekt i wykonanie: **Mikołaj Sitek**, [SWN Development](https://swndevelopment.pl) · [mikolaj@swndevelopment.pl](mailto:mikolaj@swndevelopment.pl)
