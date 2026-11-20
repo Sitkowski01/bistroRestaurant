@@ -114,7 +114,7 @@ export function Footer() {
             </p>
           </div>
           <p className="mt-4 text-[0.7rem] text-hultaj-cream/45 text-center break-words">
-            Projekt i wykonanie: Mikołaj Sitek, <a href="https://swndevelopment.pl" target="_blank" rel="noopener" className="underline hover:text-hultaj-citrus transition-colors">SWN Development</a> · <a href="mailto:mikolaj@swndevelopment.pl" className="underline hover:text-hultaj-citrus transition-colors">mikolaj@swndevelopment.pl</a>
+            Projekt i wykonanie: <a href="https://sitekmikolaj.pl" target="_blank" rel="noopener" className="underline hover:text-hultaj-citrus transition-colors">Mikołaj Sitek</a> · <a href="mailto:sitekmikolaj01@gmail.com" className="underline hover:text-hultaj-citrus transition-colors">sitekmikolaj01@gmail.com</a>
           </p>
         </div>
       </div>
